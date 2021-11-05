@@ -31,7 +31,7 @@ You need to install a library called GitPython. This library allows us to run gi
 pip3 install GitPython
 ```
 
-There is a file called run.py in this repository. After you download this repository, you will need to go to the base directory in terminal (`cd [directory name`). Every single time that you would like to run your code, you will run:
+There is a file called run.py in this repository. After you download this repository, you will need to go to the base directory in terminal (`cd [directory name]`). Every single time that you would like to run your code, you will run:
 
 ```
 python3 run.py [your file] [your arguments:optional]
