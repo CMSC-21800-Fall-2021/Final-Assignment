@@ -1,6 +1,9 @@
 # Final-Assignment - Part 1
 **Due: November [Insert Date] **
 
+# Set Up Python and Pip
+- Do we need to do this???
+- 
 # Set-Up and Administration
 ## Code Editor
 We strongly suggest that you use a Python code editor like VSCode for this assignment.
