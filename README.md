@@ -1,9 +1,12 @@
 # Final-Assignment - Part 1
 **Due: November [Insert Date] **
 
-# Set Up Python and Pip
-- Do we need to do this???
-- 
+# Set Up Python and Pip/Windows
+- Do we need to do this?
+- GIT CLONE -> Still needs PowerShell
+- https://www.python.org/downloads/
+
+
 # Set-Up and Administration
 ## Code Editor
 We strongly suggest that you use a Python code editor like VSCode for this assignment.
@@ -27,17 +30,16 @@ Anything outside of your personal repository will not be tracked. All personally
 Link to opt-out: [Insert Google Form]
 
 # IMPORTANT: How to run your assignment
-You need to install a library called GitPython. This library allows us to run git commands in Python. You can install the library by running:
-[Question to Sanjay: pip3/python3 or pip/python?]
+You need to install a library called GitPython. This library allows us to run git commands in Python. You can install the library by running in Terminal/PowerShell/Command Prompt:
 
 ```
-pip3 install GitPython
+pip install GitPython
 ```
 
-There is a file called run.py in this repository. After you download this repository, you will need to go to the base directory in terminal (`cd [directory name]`). Every single time that you would like to run your code, you will run:
+There is a file called run.py in this repository. After you download this repository, you will need to go to the base directory in Terminal/PowerShell/Command Prompt (`cd [directory-name]`). Every single time that you would like to run your code, you will run Terminal/PowerShell/Command Prompt:
 
 ```
-python3 run.py [your file] [your arguments:optional]
+python run.py [your-file] [your-arguments:optional]
 
 ```
 
