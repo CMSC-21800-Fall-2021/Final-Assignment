@@ -49,7 +49,7 @@ python run.py [your-file] [your-arguments:optional]
 You can create an alias for the previous command so that you don't have to run the full string. This is easy to do in Linux. In your command terminal you can type:
 
 ```
-alias py ="python3 run.py"
+alias py ="python run.py"
 ```
 
 This allows you to run your program with:
